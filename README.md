@@ -1,2 +1,7 @@
-# sistemalocadora
-Projeto apresentado no final da disciplina de Banco de Dados no Curso Técnico em Informática
+# Sistema Locadora
+Projeto desenvolvido em Java no Curso Técnico em Informática.
+
+Ano:2018.
+Matéria:Banco de Dados.
+Professor:Heden Silva.
+
